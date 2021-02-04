@@ -1,6 +1,6 @@
 # tflitePractice
 
-A new Flutter project.
+A new Flutter project. which uses the serialized ssd mobile net and yolo model to detect objects
 
 ## Getting Started
 
